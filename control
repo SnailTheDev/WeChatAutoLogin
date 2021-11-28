@@ -1,0 +1,9 @@
+Package: com.snail.wechatautologin
+Name: 微信自动确认登录
+Depends: mobilesubstrate
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: 电脑登录微信时，打开手机微信APP，自动确认登录。支持所有微信版本。
+Maintainer: Snail
+Author: Snail
+Section: Tweaks
